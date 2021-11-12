@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, estou aprendendo **Data Analysis and Visualization.**
 
-- 👨‍💻 Me pergunte sobre [Python e Excel.](Python e Excel.)
+- 👨‍💻 Me pergunte sobre Python e Excel.
 
 - 📝 Estou atualmente estudando na **Universidade Federal do ABC (UFABC) em Santo André**
 
