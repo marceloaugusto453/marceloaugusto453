@@ -9,8 +9,8 @@
 
 <h3 align="left">Conecte-se comgio:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcelo-augusto-da-cunha-ribeiro-0427011b6/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/marcelo-augusto-da-cunha-ribeiro-0427011b6/" height="30" width="40" /></a>
-<a href="mailto:augusto.marcelo@aluno.ufabc.edu.br" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:augusto.marcelo@aluno.ufabc.edu.br" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcelo-augusto-da-cunha-ribeiro-0427011b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:augusto.marcelo@aluno.ufabc.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
