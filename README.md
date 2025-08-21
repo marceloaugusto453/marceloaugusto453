@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Marcelo Augusto</h1>
-<h3 align="center">Estudante em Bacharelado em Ciência e Tecnologia e aspirante a analista de dados.</h3>
+<h3 align="center">Formado em Bacharelado em Ciência e Tecnologia e analista de dados no Banco Itaú.</h3>
 
-- 🌱 Atualmente, sou analista de produtos júnior no **Itaú Unibaco** trilhando a jornada para me tornar um cientista de dados.
+- 🌱 Atualmente, sou analytics engineer no **Itaú Unibaco**, focado em gerar insights a partir de dados e construção de KPI's e dashboards.
 
 - 📝  Formado em Ciência e Tecnologia pela **Universidade Federal do ABC (UFABC)** e Gestão Financeira pela **Faculdade Descomplica**
 
