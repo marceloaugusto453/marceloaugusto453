@@ -1,19 +1,31 @@
-<h1 align="center">Oi 👋, Eu sou Marcelo Augusto</h1>
-<h3 align="center">Formado em Bacharelado em Ciência e Tecnologia e analista de dados no Banco Itaú.</h3>
+<h1 align="center">Hi 👋, I'm Marcelo Augusto</h1>
+<h3 align="center">Bachelor of Science and Technology graduate and analytics engineer at Banco Itaú.</h3>
 
-- 🌱 Atualmente, sou analista de dados pleno no **Itaú Unibaco**, focado em gerar insights a partir de dados e construção de KPI's e dashboards.
+- 🌱 I am currently a data analyst at **Itaú Unibanco**, focused on generating insights from data and building KPIs and dashboards.
 
-- 📝  Formado em Ciência e Tecnologia pela **Universidade Federal do ABC (UFABC)** e Gestão Financeira pela **Faculdade Descomplica**
+- 📝 Graduated in Science and Technology from the **Federal University of ABC (UFABC)** and in Financial Management from **Faculdade Descomplica**.
 
-- 📫 Como me encontrar **augusto.marcelo@aluno.ufabc.edu.br**
+- 📫 How to reach me **marcelo.augusto.453@outlook.com**
 
-<h3 align="left">Conecte-se comgio:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/marcelo-cunha-ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:augusto.marcelo@aluno.ufabc.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:marcelo.augusto.453@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com/pt/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/>
+  </a>
+  </p>
 
 ![Snake animation](https://github.com/marceloaugusto453/marceloaugusto453/blob/output/github-contribution-grid-snake.svg)
