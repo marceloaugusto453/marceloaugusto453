@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Augusto</h1>
 <h3 align="center">Bachelor of Science and Technology graduate and analytics engineer at Banco Itaú.</h3>
 
-- 🌱 I am currently a data analyst at **Itaú Unibanco**, focused on generating insights from data and building KPIs and dashboards.
+- 🌱 I am currently a analytics and data engineer at **Itaú Unibanco**, focused on generating insights from data and building KPIs and dashboards.
 
 - 📝 Graduated in Science and Technology from the **Federal University of ABC (UFABC)** and in Financial Management from **Faculdade Descomplica**.
 
